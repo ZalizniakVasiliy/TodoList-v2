@@ -15,7 +15,7 @@ const TodoForm = (props) => {
             </Form.Group>
 
             <Form.Group className="mb-3" controlId="todoFormDescription">
-                <Form.Label>Task title</Form.Label>
+                <Form.Label>Task description</Form.Label>
                 <Form.Control
                     name='description'
                     value={props.todoEl.description}
