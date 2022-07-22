@@ -12,7 +12,7 @@ const pages = [
     {
         id: 2,
         route: 'all-items',
-        title: ' All Todos'
+        title: 'All Todos'
     },
 ]
 
